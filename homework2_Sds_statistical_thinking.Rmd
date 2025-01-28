@@ -7,7 +7,7 @@
 +-----------------------------------------------------------------------------+
 | output: html_document                                                       |
 |                                                                             |
-| [Link to Code](https://github.com/Aditya-Holla/homework2/blob/main/hw2.Rmd) |
+| [Link to Code](https://github.com/Aditya-Holla/Homework2SDS/blob/main/homework2_Sds_statistical_thinking.Rmd) |
 +-----------------------------------------------------------------------------+
 
 ```{r, echo=FALSE, Warning = FALSE, message = FALSE}
